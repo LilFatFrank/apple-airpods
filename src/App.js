@@ -1,10 +1,11 @@
-import './App.css';
+import "./App.css";
+import Scene from "./Scenes/Scene";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <Scene />
+    </>
   );
 }
 

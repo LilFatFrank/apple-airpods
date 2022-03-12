@@ -36,7 +36,9 @@
     ]
   },
   "devDependencies": {
+    "gsap": "^3.9.1",
     "react-scrollmagic": "^2.3.0",
-    "sass": "^1.49.9"
+    "sass": "^1.49.9",
+    "scrollmagic": "^2.0.8"
   }
 }
